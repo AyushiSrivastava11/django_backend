@@ -1,2 +1,1 @@
-# django_crud
-CRUD Operations using Django
+# CRUD Operations using Django
